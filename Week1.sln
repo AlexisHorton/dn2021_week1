@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDemo", "VarDemo\VarDemo.csproj", "{09303ADD-A094-4407-9056-37923D11E9A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarDemo", "VarDemo\VarDemo.csproj", "{09303ADD-A094-4407-9056-37923D11E9A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89F302C7-0290-43EA-88F1-B065D29E2B41}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{F3705D38-355A-4805-A8AE-A2135049C7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifElseDemo", "ifElseDemo\ifElseDemo.csproj", "{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo", "LoopDemo\LoopDemo.csproj", "{C446E7CA-E10C-4D02-915F-CAEE0559EA88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +26,18 @@ Global
 		{09303ADD-A094-4407-9056-37923D11E9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09303ADD-A094-4407-9056-37923D11E9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09303ADD-A094-4407-9056-37923D11E9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3705D38-355A-4805-A8AE-A2135049C7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3705D38-355A-4805-A8AE-A2135049C7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3705D38-355A-4805-A8AE-A2135049C7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3705D38-355A-4805-A8AE-A2135049C7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C446E7CA-E10C-4D02-915F-CAEE0559EA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C446E7CA-E10C-4D02-915F-CAEE0559EA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C446E7CA-E10C-4D02-915F-CAEE0559EA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C446E7CA-E10C-4D02-915F-CAEE0559EA88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

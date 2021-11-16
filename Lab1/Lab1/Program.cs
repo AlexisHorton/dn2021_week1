@@ -27,7 +27,7 @@ namespace Lab1
             {
                 Console.WriteLine("\n This is a medium-sized room.");
             }
-            else if (area >= 650)
+            else 
             {
                 Console.WriteLine("\n This is a large-sized room.");
             }
