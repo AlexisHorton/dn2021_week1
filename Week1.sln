@@ -10,13 +10,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{F3705D38-355A-4805-A8AE-A2135049C7B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{F3705D38-355A-4805-A8AE-A2135049C7B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifElseDemo", "ifElseDemo\ifElseDemo.csproj", "{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifElseDemo", "ifElseDemo\ifElseDemo.csproj", "{32DF77B4-B43F-4B82-85F9-FCA3F8972CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo", "LoopDemo\LoopDemo.csproj", "{C446E7CA-E10C-4D02-915F-CAEE0559EA88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopDemo", "LoopDemo\LoopDemo.csproj", "{C446E7CA-E10C-4D02-915F-CAEE0559EA88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{1B6FABF6-0F2F-499B-B537-4899525EA7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{1B6FABF6-0F2F-499B-B537-4899525EA7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAnalyze1", "NumAnalyze1\NumAnalyze1.csproj", "{9C658FA4-F6F1-4CFD-ACC6-8365237C7428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo2", "LoopDemo2\LoopDemo2.csproj", "{78EAF267-AD3B-4A3B-8DF1-CD322C619485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDemo", "MethodDemo\MethodDemo.csproj", "{2D7A0FE1-2EBA-4AC3-8E2C-05AAC8D82DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAnalyze2", "NumAnalyze2\NumAnalyze2.csproj", "{976788D3-8AF9-4096-AA16-B7953D26C824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{0C7276D4-BFE8-4F75-90F0-351B8548BA05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +54,26 @@ Global
 		{1B6FABF6-0F2F-499B-B537-4899525EA7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6FABF6-0F2F-499B-B537-4899525EA7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6FABF6-0F2F-499B-B537-4899525EA7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C658FA4-F6F1-4CFD-ACC6-8365237C7428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C658FA4-F6F1-4CFD-ACC6-8365237C7428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C658FA4-F6F1-4CFD-ACC6-8365237C7428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C658FA4-F6F1-4CFD-ACC6-8365237C7428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EAF267-AD3B-4A3B-8DF1-CD322C619485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EAF267-AD3B-4A3B-8DF1-CD322C619485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EAF267-AD3B-4A3B-8DF1-CD322C619485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EAF267-AD3B-4A3B-8DF1-CD322C619485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7A0FE1-2EBA-4AC3-8E2C-05AAC8D82DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7A0FE1-2EBA-4AC3-8E2C-05AAC8D82DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7A0FE1-2EBA-4AC3-8E2C-05AAC8D82DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7A0FE1-2EBA-4AC3-8E2C-05AAC8D82DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976788D3-8AF9-4096-AA16-B7953D26C824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976788D3-8AF9-4096-AA16-B7953D26C824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976788D3-8AF9-4096-AA16-B7953D26C824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976788D3-8AF9-4096-AA16-B7953D26C824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7276D4-BFE8-4F75-90F0-351B8548BA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7276D4-BFE8-4F75-90F0-351B8548BA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7276D4-BFE8-4F75-90F0-351B8548BA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7276D4-BFE8-4F75-90F0-351B8548BA05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
