@@ -6,8 +6,6 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
-            // I can't find where my loop is messing up at. It won't end when appropriate response is entered.
-
             string entry = "";
 
             do
@@ -41,7 +39,7 @@ namespace Lab3
                 Console.WriteLine("\n Do another? Y/N : ");
                 entry = Console.ReadLine().ToLower();
 
-            } while (entry != "N");
+            } while (entry != "n");
 
             Console.WriteLine("Until next time! :) ");
         }
