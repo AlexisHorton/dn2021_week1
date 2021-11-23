@@ -30,6 +30,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3", "Lab3\Lab3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodPractice", "MethodPractice\MethodPractice.csproj", "{0E2BE225-E37E-49FF-BC7F-298603F922E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinLab4", "PigLatinLab4\PigLatinLab4.csproj", "{7BFE50C1-10C5-4595-B182-2887D83C1930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{0E2BE225-E37E-49FF-BC7F-298603F922E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E2BE225-E37E-49FF-BC7F-298603F922E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E2BE225-E37E-49FF-BC7F-298603F922E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFE50C1-10C5-4595-B182-2887D83C1930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFE50C1-10C5-4595-B182-2887D83C1930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFE50C1-10C5-4595-B182-2887D83C1930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFE50C1-10C5-4595-B182-2887D83C1930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
